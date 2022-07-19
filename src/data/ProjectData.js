@@ -5,16 +5,15 @@ import nodeJSImage from "../Assets/nodeJS.png";
 
 // --------------------------------------- Project List
 export const ProjectList = [
-  {
-    // need to fix "C:/Users/USER/Portfolio/src/Assets/SmartCity.png"
-    img: smartCityIMG,
-    title: "Smart City",
-    description: 'Smart City, This project is about multithreading "SmartCity" which contains a roadway system that implements the Dijkstra' +
-    'algorithm while keeping track of vehicles, traffic lights and oncoming traffic, using Java and OOP principals',
-    tech_stack: 'Java',
-    github_url: "https://github.com/LiorHajaj/Smart-City",
+  // {
+  //   img: smartCityIMG,
+  //   title: "Smart City",
+  //   description: 'Smart City, This project is about multithreading "SmartCity" which contains a roadway system that implements the Dijkstra' +
+  //   'algorithm while keeping track of vehicles, traffic lights and oncoming traffic, using Java and OOP principals',
+  //   tech_stack: 'Java',
+  //   github_url: "https://github.com/LiorHajaj/Smart-City",
     // demo_url: "https://clicker-nu.vercel.app",
-  },// {
+  // },// {
   //   img: "",
   //   title: "Ecommerce",
   //   description: "A ecommerce with the Api of Rakuten, Made it with React and sass.",
